@@ -76,7 +76,7 @@ body {
   width: 100vw;
   font-family: "Helvetica Neue", sans-serif;
   font-size: var(--size-body);
-  font-weight: 300;
+  font-weight: 500;
   color: black;
   overflow-x: hidden;
 
@@ -149,7 +149,6 @@ body {
   padding-bottom: calc(var(--gap)*2);
   width: 80%;
   justify-self: center;
-  font-weight: 400;
   z-index: 3;
   background-color: white;
 
